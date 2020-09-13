@@ -1,6 +1,7 @@
 {
   "name": "@rekit/host",
-  "version": "5.0.0",
+  "private": false,
+  "version": "5.0.0-alpha.1",
   "main": "index.js",
   "license": "MIT"
 }
